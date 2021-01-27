@@ -1,0 +1,11 @@
+
+
+To check wether user is there or not
+------------------------------------
+    > git config --global --list
+
+To get register in vscode 
+-------------------------
+
+    > git config --global user.email " sureshchowdary210@gmail.com"
+    > git config --global user.name " sureshchowdary1"
